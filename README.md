@@ -4,6 +4,7 @@ Supplementary information for the journal article "Range of climate change impac
 Files:
 - storage period.ipynb: Monte Carlo simulation of digestate storage period based on DK manure soil application data.
 - Storage CH4.ipynb: Calculation of digestate storage CH4 emissions probability distribution using Monte Carlo simulation based on emission rates from Vechi et al (2023) and storage period data.
+- storage N2O and NH3.ipynb: Calculation of digestate storage N2O and NH3 emissions prprobability distribution using Monte Carlo simulation based baseline cattle emissions and effect of anaerobic digestion from Kupper et al. (2020)
 
 data:
 - ch4_df.csv: Interpolated and averaged daily digestate storage CH4 emission rates from Vechi et al. (2023)
